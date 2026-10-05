@@ -1,6 +1,6 @@
 # Podcast Voice and Recording Analyzer
 
-Basic Python through classes - Assignment II, Option B
+Basic Python through classes - Assignment II
 Wille Mikal Grønner - Student number: 7085
 
 Reads speaker profiles and recording sessions from csv files, rejects invalid
@@ -9,8 +9,8 @@ rows, classifies each recording and saves reports in `output/`.
 ## How to run it
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/willegronner/voice-analyzer-II.git
+cd voice-analyzer-II
 python3 main.py
 ```
 
